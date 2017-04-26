@@ -4,6 +4,7 @@ public class Gambler {
 	  * @param args
 	  */
 	 public static void main(final String[] args) {
+		 //just some bs
 		gui = new GamblerGUI();
 	}
 }
